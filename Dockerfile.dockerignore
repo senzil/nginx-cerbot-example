@@ -1,0 +1,4 @@
+#ignore all except
+*
+!nginx.conf
+!100-auto-renew-certs.sh
