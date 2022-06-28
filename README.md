@@ -1,8 +1,8 @@
-# nginx-cerbot-example
+# nginx-certbot-example
 Simple example for nginx reverse proxy with ssl termination
 
 ## How to use.
-This is just a simple example of how to create a docker image to run a certbot side by side with nginx to provide an ssl termination endpoint that you can use for test infraestructure or make some DEVOPSSEC penetretion testing maybe.
+This is just a simple example of how to create a docker image to run a certbot side by side with nginx to provide an ssl termination endpoint that you can use for test infraestructure or make some DevSecOps penetretion testing maybe.
 
 Of course you can deploy it in a pod in kubernetes providing an robust unit for serve static or dynamic content but distributed along all your infraestructure in a consistent way.
 
